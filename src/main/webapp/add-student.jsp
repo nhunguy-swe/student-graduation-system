@@ -5,9 +5,23 @@
     <title>Khai báo tốt nghiệp</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
     <style>
-        body { background-color: #f8f9fa; }
-        .form-container { background: white; padding: 30px; border-radius: 10px; box-shadow: 0 0 15px rgba(0,0,0,0.1); }
-        .section-title { border-left: 5px solid #0d6efd; padding-left: 10px; margin-bottom: 20px; color: #0d6efd; }
+        body {
+            background-color: #f8f9fa;
+        }
+
+        .form-container {
+            background: white;
+            padding: 30px;
+            border-radius: 10px;
+            box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+        }
+
+        .section-title {
+            border-left: 5px solid #0d6efd;
+            padding-left: 10px;
+            margin-bottom: 20px;
+            color: #0d6efd;
+        }
     </style>
 </head>
 <body>
